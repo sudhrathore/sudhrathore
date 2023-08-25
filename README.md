@@ -1,5 +1,4 @@
-![Header](./github-header-image-name.png)
-
+<img align="center" alt="header" src="./github-header-image.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhrathore&label=Profile%20views&color=0e75b6&style=flat" alt="sudhrathore" /> </p>
